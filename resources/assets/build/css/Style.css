@@ -1,0 +1,17 @@
+.employee-img-radius {
+    border-radius: 50%;
+    border: 2px #00d8ff solid;
+}
+
+.action-icon {
+    margin: 1%;
+}
+
+.td-txt-align {
+    text-align: left;
+    vertical-align: middle;
+}
+.tab-form{
+    margin-top: 2%;
+    float: left;
+}
